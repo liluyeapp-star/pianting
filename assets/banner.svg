@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">偏听则明 · 这期，我只听 TA。</title><desc id="desc">浅黄色底，两排声音波形，一排灰色，一排橙色突出显示。</desc>
+<rect width="1200" height="360" rx="20" fill="#FFF7E5"/>
+<rect x="42" y="42" width="95" height="29" rx="14" fill="#242222"/>
+<text x="89" y="62" fill="#FFF7E5" font-family="sans-serif" font-size="14" text-anchor="middle" letter-spacing="2">PIANTING</text>
+<text x="48" y="161" fill="#242222" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-weight="800" font-size="76" letter-spacing="3">偏听则明</text>
+<text x="51" y="227" fill="#534C44" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="31">这期，我只听 TA。</text>
+<text x="51" y="309" fill="#8A8174" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="18">指定一个人 · 留下原声 · 带回手机听</text>
+<g stroke="#DAD3C6" stroke-width="9" stroke-linecap="round">
+<path d="M706 98v20 M730 88v40 M754 99v18 M778 78v60 M802 89v38 M826 96v24 M850 73v70 M874 90v36 M898 98v20 M922 84v48 M946 92v32 M970 99v18 M994 75v66 M1018 90v36 M1042 95v26 M1066 84v48 M1090 98v20"/>
+</g>
+<rect x="670" y="166" width="470" height="135" rx="22" fill="#FFEDD2"/>
+<g stroke="#E56B32" stroke-width="10" stroke-linecap="round">
+<path d="M706 223v20 M730 213v40 M754 224v18 M778 203v60 M802 214v38 M826 221v24 M850 198v70 M874 215v36 M898 223v20 M922 209v48 M946 217v32 M970 224v18 M994 200v66 M1018 215v36 M1042 220v26 M1066 209v48 M1090 223v20"/>
+</g>
+</svg>
